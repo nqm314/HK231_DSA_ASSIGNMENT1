@@ -1,0 +1,37 @@
+MAXSIZE 10
+RED ab 4
+RED ac 7
+RED aa -12
+RED aw 8
+RED hu 74
+RED ni -2
+RED mj -6
+RED tk -10
+RED af 17
+RED jb 21 
+RED lb 22
+RED aq -1
+RED uh 9
+RED in 19
+RED qa -36
+RED iq 47
+RED ep -58
+RED ni -61
+RED ik 32
+RED op -3
+RED po 11
+LIGHT 1
+LIGHT 0
+RED wq 47
+BLUE 5
+LIGHT 1
+LIGHT 0
+PURPLE
+LIGHT 1
+LIGHT 0
+RED qm -47
+LIGHT 1
+LIGHT 0
+PURPLE 
+LIGHT 1
+LIGHT 0
